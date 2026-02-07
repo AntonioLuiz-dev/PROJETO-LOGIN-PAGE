@@ -61,7 +61,7 @@ Criar uma tela de login com visual profissional, semelhante a aplicações reais
 ## 🚀 Como Executar o Projeto
 
 1. https://antonioluiz-dev.github.io/PROJETO-LOGIN-PAGE/
-2. Abra o arquivo `index.html` no navegador
+2. Clique no link acima.
 3. Para fins de demonstração, utilize:
 
 ```
