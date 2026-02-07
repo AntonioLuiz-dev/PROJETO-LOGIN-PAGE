@@ -83,7 +83,7 @@ Senha: 123456
 
 ## 📱💻 Preview do Projeto
 <br>
-<img src="https://github.com/AntonioLuiz-dev/PROJETO-LOGIN-PAGE/blob/main/assets/mockup.png?raw=true"500px"/>
+<img src="https://github.com/AntonioLuiz-dev/PROJETO-LOGIN-PAGE/blob/main/assets/mockup.png?raw=true" width="500px"/>
 
 ## 👨‍💻 Autor
 
