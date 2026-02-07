@@ -81,6 +81,10 @@ Senha: 123456
 
 ---
 
+## 📱💻 Preview do Projeto
+<br>
+<img src="https://github.com/AntonioLuiz-dev/CALCULADORA/blob/main/assets/mockup.png?raw=true"500px"/>
+
 ## 👨‍💻 Autor
 
 Desenvolvido por **Antonio Santos**
